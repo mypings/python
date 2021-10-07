@@ -2,3 +2,4 @@ txt="Sir Thomas, poor Sir Thomas, a parent, and conscious of errors in his own c
 t2=[i for i in txt.split()]
 t3=filter(lambda x:x[0]=="a",t2)
 print(list(t3))
+print("hello!")

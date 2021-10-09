@@ -64,4 +64,5 @@ Student.age=20
 Student.name="li"
 print(s1.name,s1.age, s2.name,s2.age)
 # s1.get_name  装饰器的调用
+# a test
 
